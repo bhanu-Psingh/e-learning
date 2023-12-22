@@ -22,13 +22,8 @@ function App() {
           <img src={sassLogo} className="logo sass" alt="Sass logo" />
           </a>
       </div>
-      <h1 style={{fontStyle: 'italic'}}>Getting down to <span className={'bismuth'} style={{color: '#9551ff', fontStyle: 'normal'}}>Bismuth</span></h1>
-      <div className="card">
-        <Counter />
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
+      <h1 style={{fontStyle: 'italic'}}>Learn with <span className={'bismuth'} style={{color: '#9551ff', fontStyle: 'normal'}}>SkillSage</span></h1>
+      
       <p className="read-the-docs">
         Click on the Vite, React, TypeScript and Sass logos to learn more
       </p>
